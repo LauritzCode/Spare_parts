@@ -1,4 +1,4 @@
-# 🌙 Spare Parts Exercise
+# Spare Parts Exercise
 
 ## Description:
 The following program prompts the user to input an item which may or may not be available in storage. 
